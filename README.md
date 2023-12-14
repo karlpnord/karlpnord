@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hey there! 👍
+## I'm Karl Nordgaard, currently a front-end development student based in Oslo, Norway
 
+### About Me
+- 🔭 I’m currently working on my portfolio
+- 🌱 I’m currently learning TBD
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/karl-petter-n-560624137/)
+- 😄 Pronouns: He
+- ⚡ Fun fact: I learned HTML, CSS and JS before I knew what front-end development was
+
+### My stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karlpnord&show_icons=true&theme=gruvbox)
 <!--
 **karlpnord/karlpnord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
