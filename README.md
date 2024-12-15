@@ -71,7 +71,7 @@
 
 ### **Fun Facts**
 - 🎨 I have a passion for creating visually stunning web interfaces.
-- 💡 When I'm not coding, I enjoy **[insert hobby, e.g., hiking, gaming, or cooking]**.
+- 💡 When I'm not coding, I enjoy **gaming, working out and sports**.
 - 🌍 I dream of contributing to open-source projects that make a global impact.  
 
 ---
