@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karl</h1>
 <h3 align="center">A front-end developer from Oslo, Norway</h3>
 
-- 🔭 I’m currently working on **improving my development skills** and building a [flashcard app](#).
+- 🔭 I’m currently working on **improving my development skills** and building a [todo app](#).
 
 - 🌱 I’m currently learning **TypeScript** and deepening my knowledge of modern front-end frameworks.
 
